@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="882995" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="885849" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="888946" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
