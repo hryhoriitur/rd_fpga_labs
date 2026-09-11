@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2025.1
+| Date         : Fri Sep 11 17:02:59 2026
+| Host         : k01-dt-0008.ad.oko.camera
+| Design       : design_1
+| Device       : xc7a100t-csg324-1--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="957295" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="984395" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1020115" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1048744" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1088030" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1096465" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1122294" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1130665" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="1163581" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>

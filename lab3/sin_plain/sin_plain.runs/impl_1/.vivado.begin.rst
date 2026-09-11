@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="901847" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="hryhorii.tur" Host="k01-dt-0008.ad.oko.camera" Pid="918479" HostCore="12" HostMemory="32748796">
+    </Process>
+</ProcessHandle>
