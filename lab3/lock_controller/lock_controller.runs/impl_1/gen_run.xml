@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1789034195">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="lock_controller_debounced_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="lock_controller_debounced_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="lock_controller_debounced.vdi"/>
+  <File Type="BG-DRC" Name="lock_controller_debounced.drc"/>
+  <File Type="BG-BGN" Name="lock_controller_debounced.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="lock_controller_debounced.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="lock_controller_debounced.ltx"/>
+  <File Type="PL-LTX-FILE" Name="lock_controller_debounced_pld.ltx"/>
+  <File Type="BOOT-LTX-FILE" Name="lock_controller_debounced_boot.ltx"/>
+  <File Type="LTX-FILE" Name="lock_controller_debounced.ltx"/>
+  <File Type="PL-BIF-FILE" Name="lock_controller_debounced_pld.bif"/>
+  <File Type="BOOT-BIF-FILE" Name="lock_controller_debounced_boot.bif"/>
+  <File Type="BIF-FILE" Name="lock_controller_debounced.bif"/>
+  <File Type="MMI-FILE" Name="lock_controller_debounced.mmi"/>
+  <File Type="RBD_FILE" Name="lock_controller_debounced.rbd"/>
+  <File Type="NPI_FILE" Name="lock_controller_debounced.npi"/>
+  <File Type="PL_UNMASK_RCDO_FILE" Name="lock_controller_debounced_pld_unmask.rcdo"/>
+  <File Type="PL_UNMASK_MARKER_RCDO_FILE" Name="lock_controller_debounced_pld_unmask_markers.rcdo"/>
+  <File Type="PL_MASK_RCDO_FILE" Name="lock_controller_debounced_pld_mask.rcdo"/>
+  <File Type="PL_MARKER_RCDO_FILE" Name="lock_controller_debounced_pld_markers.rcdo"/>
+  <File Type="PL-CLEAR-RCDO-FILE" Name="lock_controller_debounced_pld_clear.rcdo"/>
+  <File Type="PL-RCDO-FILE" Name="lock_controller_debounced_pld.rcdo"/>
+  <File Type="PL_UNMASK_RNPI_FILE" Name="lock_controller_debounced_pld_unmask.rnpi"/>
+  <File Type="PL_SHUTDOWN_RNPI_FILE" Name="lock_controller_debounced_pld_shutdown.rnpi"/>
+  <File Type="PL_MASK_RNPI_FILE" Name="lock_controller_debounced_pld_mask.rnpi"/>
+  <File Type="PL_MARKER_RNPI_FILE" Name="lock_controller_debounced_pld_markers.rnpi"/>
+  <File Type="PL_RNPI_FILE" Name="lock_controller_debounced_pld.rnpi"/>
+  <File Type="BOOT_MARKER_RNPI_FILE" Name="lock_controller_debounced_boot_markers.rnpi"/>
+  <File Type="BOOT_RNPI_FILE" Name="lock_controller_debounced_boot.rnpi"/>
+  <File Type="MARKER-RCDO-FILE" Name="lock_controller_debounced_markers.rcdo"/>
+  <File Type="MARKER-RNPI-FILE" Name="lock_controller_debounced_markers.rnpi"/>
+  <File Type="RCDO-FILE" Name="lock_controller_debounced.rcdo"/>
+  <File Type="RNPI_FILE" Name="lock_controller_debounced.rnpi"/>
+  <File Type="CFI_FILE" Name="lock_controller_debounced.cfi"/>
+  <File Type="RCFI_FILE" Name="lock_controller_debounced.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="lock_controller_debounced_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="lock_controller_debounced_boot.pdi"/>
+  <File Type="PDI-FILE" Name="lock_controller_debounced.pdi"/>
+  <File Type="BITSTR-MMI" Name="lock_controller_debounced.mmi"/>
+  <File Type="BITSTR-BMM" Name="lock_controller_debounced_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="lock_controller_debounced.nky"/>
+  <File Type="BITSTR-RBT" Name="lock_controller_debounced.rbt"/>
+  <File Type="BITSTR-MSK" Name="lock_controller_debounced.msk"/>
+  <File Type="BG-BIN" Name="lock_controller_debounced.bin"/>
+  <File Type="BG-BIT" Name="lock_controller_debounced.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="lock_controller_debounced_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="lock_controller_debounced_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="lock_controller_debounced_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="lock_controller_debounced_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="lock_controller_debounced_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="lock_controller_debounced_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="lock_controller_debounced_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="lock_controller_debounced_postroute_physopt.dcp"/>
+  <File Type="ROUTE-RQS-PB" Name="lock_controller_debounced_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="lock_controller_debounced_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="lock_controller_debounced_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="lock_controller_debounced_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="lock_controller_debounced_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="lock_controller_debounced_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="lock_controller_debounced_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="lock_controller_debounced_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="lock_controller_debounced_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="lock_controller_debounced_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="lock_controller_debounced_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="lock_controller_debounced_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="lock_controller_debounced_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="lock_controller_debounced_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="lock_controller_debounced_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="lock_controller_debounced_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="lock_controller_debounced_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="lock_controller_debounced_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="lock_controller_debounced_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="lock_controller_debounced_drc_routed.rpt"/>
+  <File Type="ROUTE-UTIL-PB" Name="lock_controller_debounced_utilization_routed.pb"/>
+  <File Type="ROUTE-UTIL" Name="lock_controller_debounced_utilization_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="lock_controller_debounced_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="lock_controller_debounced_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="lock_controller_debounced_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="lock_controller_debounced_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="lock_controller_debounced_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="lock_controller_debounced_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="lock_controller_debounced_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="lock_controller_debounced_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="lock_controller_debounced_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="lock_controller_debounced_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="lock_controller_debounced_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="lock_controller_debounced_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="lock_controller_debounced_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="lock_controller_debounced_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="lock_controller_debounced_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="lock_controller_debounced_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="lock_controller_debounced_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="lock_controller_debounced_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="lock_controller_debounced_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="lock_controller_debounced_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="lock_controller_debounced_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="lock_controller_debounced_rqa_opted.pb"/>
+  <File Type="OPT-TIMING" Name="lock_controller_debounced_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="lock_controller_debounced.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="lock_controller_debounced_methodology_drc_opted.rpt"/>
+  <File Type="OPT-UTIL-PB" Name="lock_controller_debounced_utilization_opted.pb"/>
+  <File Type="OPT-UTIL" Name="lock_controller_debounced_utilization_opted.rpt"/>
+  <File Type="OPT-DRC" Name="lock_controller_debounced_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="lock_controller_debounced_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="lock_controller_debounced_timing_summary_init.rpt"/>
+  <File Type="REPORTS-TCL" Name="lock_controller_debounced_reports.tcl"/>
+  <File Type="PA-TCL" Name="lock_controller_debounced.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/lock_controller.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="lock_controller_debounced"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2025">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

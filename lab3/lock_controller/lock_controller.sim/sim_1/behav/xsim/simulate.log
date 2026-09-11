@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+PASS: test           0: unlocked_led 0 == expected 0
+PASS: input digit num           0 -> LOCKED
+PASS: input digit num           1 -> WAIT_D2
+PASS: input digit num           2 -> WAIT_D3
+PASS: input digit num           3 -> UNLOCKED
+PASS: test           1: unlocked_led 1 == expected 1
+PASS: test           2: unlocked_led 0 == expected 0
+PASS: test           3: unlocked_led 0 == expected 0

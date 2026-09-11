@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 21 2025
+22:59:56
+/home/hryhorii.tur/edu/fpga/lab3/lock_controller/lock_controller.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+/home/hryhorii.tur/edu/fpga/lab3/lock_controller/lock_controller.srcs/sim_1/new/tb_lock_controller.sv,1789118660,systemVerilog,,,,tb_lock_controller,,uvm,../../../../../../../../amd/2025.1/data/rsb/busdef,,,,,
+/home/hryhorii.tur/edu/fpga/lab3/lock_controller/lock_controller.srcs/sources_1/new/lock_controller.sv,1789118765,systemVerilog,/home/hryhorii.tur/edu/fpga/lab3/lock_controller/lock_controller.srcs/sim_1/new/tb_lock_controller.sv,/home/hryhorii.tur/edu/fpga/lab3/lock_controller/lock_controller.srcs/sim_1/new/tb_lock_controller.sv,,$unit_lock_controller_sv_798694225;debounce_filter;lock_controller;lock_controller_debounced;lock_pkg,,uvm,../../../../../../../../amd/2025.1/data/rsb/busdef,,,,,
