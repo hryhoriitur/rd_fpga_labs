@@ -1,0 +1,45 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "tcf-debug",
+			"request": "launch",
+			"name": "mb_led_gpio_app_app_hw_1",
+			"debugType": "baremetal-fpga",
+			"attachToRunningTargetOptions": {
+				"targetSetupMode": "standalone",
+				"executeScript": true,
+				"scriptPath": ""
+			},
+			"autoAttachProcessChildren": false,
+			"target": {
+				"targetConnectionId": "Local",
+				"peersIniPath": "../../_ide/.peers.ini",
+				"context": "fpga"
+			},
+			"pathMap": [],
+			"targetSetup": {
+				"resetSystem": true,
+				"programDevice": true,
+				"partialBitstream": false,
+				"skipRevisionCheck": false,
+				"device": {
+					"plDevice": "Auto Detect",
+					"psDevice": "Auto Detect"
+				},
+				"bitstreamFile": "/home/hryhorii.tur/edu/fpga/lab4/microblaze/microblaze.runs/impl_1/mb_led_gpio_wrapper.bit",
+				"downloadElf": [
+					{
+						"core": "microblaze_0",
+						"resetProcessor": true,
+						"elfFile": "${workspaceFolder}/mb_led_gpio_app/build/mb_led_gpio_app.elf",
+						"stopAtEntry": false,
+						"isSelfRelocatingApp": false,
+						"relativeAddress": ""
+					}
+				]
+			},
+			"internalConsoleOptions": "openOnSessionStart"
+		}
+	]
+}

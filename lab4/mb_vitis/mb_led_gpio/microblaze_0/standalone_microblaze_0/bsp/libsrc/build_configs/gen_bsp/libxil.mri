@@ -1,0 +1,6 @@
+create libxil.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/mb_led_gpio/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/libtmrctr.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/mb_led_gpio/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/gpio/src/libgpio.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/mb_led_gpio/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/bram/src/libbram.a
+save
+end
