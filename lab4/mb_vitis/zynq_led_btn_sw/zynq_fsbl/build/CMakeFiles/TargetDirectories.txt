@@ -1,0 +1,3 @@
+/home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+/home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+/home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

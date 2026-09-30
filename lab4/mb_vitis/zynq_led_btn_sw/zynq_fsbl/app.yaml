@@ -1,0 +1,4 @@
+domain_path: /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/zynq_fsbl/zynq_fsbl_bsp
+app_src_dir: /home/hryhorii.tur/amd/2025.1/Vitis/data/embeddedsw/lib/sw_apps/zynq_fsbl
+template: zynq_fsbl
+lang: c

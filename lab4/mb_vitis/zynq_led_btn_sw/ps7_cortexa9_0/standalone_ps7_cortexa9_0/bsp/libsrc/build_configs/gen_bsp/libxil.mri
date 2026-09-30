@@ -1,0 +1,12 @@
+create libxil.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/xadcps/src/libxadcps.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/tmrctr/src/libtmrctr.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/scuwdt/src/libscuwdt.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/scutimer/src/libscutimer.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/scugic/src/libscugic.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/gpio/src/libgpio.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/dmaps/src/libdmaps.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/devcfg/src/libdevcfg.a
+addlib /home/hryhorii.tur/edu/fpga/lab4/mb_vitis/zynq_led_btn_sw/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/libsrc/coresightps_dcc/src/libcoresightps_dcc.a
+save
+end
