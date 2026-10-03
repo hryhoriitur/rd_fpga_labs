@@ -1,0 +1,4 @@
+domain_path: /home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_platform/export/mb_dma_btn_platform/sw/standalone_microblaze_0
+app_src_dir: /home/hryhorii.tur/amd/2025.1/Vitis/data/embeddedsw/lib/sw_apps/empty_application
+template: empty_application
+lang: c

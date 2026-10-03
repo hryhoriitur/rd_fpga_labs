@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_mb_dma_btn_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_datamover_pkg" />
+            <top_module name="axi_dma_pkg" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="lmb_bram_if_funcs" />
+            <top_module name="mdm_funcs" />
+            <top_module name="tb_mb_dma_btn" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="102,241.399 ns"></ZoomStartTime>
+      <ZoomEndTime time="108,986.400 ns"></ZoomEndTime>
+      <Cursor1Time time="103,011.399 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="167"></NameColumnWidth>
+      <ValueColumnWidth column_width="83"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/clk_in">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/data_in">
+      <obj_property name="ElementShortName">data_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/start_btn">
+      <obj_property name="ElementShortName">start_btn</obj_property>
+      <obj_property name="ObjectShortName">start_btn</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/DATA_IN_WIDTH">
+      <obj_property name="ElementShortName">DATA_IN_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_IN_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/FRAME_SIZE">
+      <obj_property name="ElementShortName">FRAME_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FRAME_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/FRAME_PIXEL_SIZE">
+      <obj_property name="ElementShortName">FRAME_PIXEL_SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FRAME_PIXEL_SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/FRAME_SIZE_B">
+      <obj_property name="ElementShortName">FRAME_SIZE_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">FRAME_SIZE_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/CLOCK_HALF_PERIOD">
+      <obj_property name="ElementShortName">CLOCK_HALF_PERIOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_HALF_PERIOD[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/tb_mb_dma_btn/CLOCK_IN_HALF_PERIOD">
+      <obj_property name="ElementShortName">CLOCK_IN_HALF_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">CLOCK_IN_HALF_PERIOD</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/fifo_en">
+      <obj_property name="ElementShortName">fifo_en</obj_property>
+      <obj_property name="ObjectShortName">fifo_en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/fifo_en_in">
+      <obj_property name="ElementShortName">fifo_en_in</obj_property>
+      <obj_property name="ObjectShortName">fifo_en_in</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/axi4_full_ram/inst/s_axi_wdata">
+      <obj_property name="ElementShortName">s_axi_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">s_axi_wdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/m_axis_tdata">
+      <obj_property name="ElementShortName">m_axis_tdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/m_axis_tkeep">
+      <obj_property name="ElementShortName">m_axis_tkeep[3:0]</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tkeep[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/m_axis_tlast">
+      <obj_property name="ElementShortName">m_axis_tlast</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tlast</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/m_axis_tvalid">
+      <obj_property name="ElementShortName">m_axis_tvalid</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tvalid</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_mb_dma_btn/mb/mb_dma_btn_i/fifo_axi_streamer_top_0/inst/streamer_inst/m_axis_tready">
+      <obj_property name="ElementShortName">m_axis_tready</obj_property>
+      <obj_property name="ObjectShortName">m_axis_tready</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_app/build",
+  "command": "/home/hryhorii.tur/amd/2025.1/Vitis/gnu/microblaze/lin/bin/mb-gcc -isystem /home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_platform/export/mb_dma_btn_platform/sw/standalone_microblaze_0/include -isystem /home/hryhorii.tur/amd/2025.1/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include -isystem /home/hryhorii.tur/amd/2025.1/gnu/microblaze/lin/x86_64-oesdk-linux/usr/lib/microblaze-xilinx-elf/gcc/microblaze-xilinx-elf/13.3.0/include-fixed -isystem /home/hryhorii.tur/amd/2025.1/Vitis/gnu/microblaze/lin/microblazeeb-xilinx-elf/usr/include   -mlittle-endian -mxl-soft-mul -mcpu=v11.0 -DSDT  -MMD -MP -specs=/home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_platform/export/mb_dma_btn_platform/sw/standalone_microblaze_0/Xilinx.spec -I/home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_platform/export/mb_dma_btn_platform/sw/standalone_microblaze_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/mb_dma_btn_app.elf.dir/dma_stream.c.obj -c /home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_app/src/dma_stream.c",
+  "file": "/home/hryhorii.tur/edu/fpga/lab5/mb_dma_ws/mb_dma_btn_app/src/dma_stream.c"
+}
+]
